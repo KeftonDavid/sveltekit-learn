@@ -15,6 +15,8 @@
           <li><a href="/">Home</a></li>
           <li><a href="/about">About</a></li>
           <li><a href="/blog">Blog</a></li>
+          <li><a href="/expected">Expected error</a></li>
+          <li><a href="/unexpected">Unexpected error</a></li>
 
         </ul>
       </div>
@@ -26,7 +28,8 @@
         <li><a href="/">Home</a></li>
         <li><a href="/about">About</a></li>
         <li><a href="/blog">Blog</a></li>
-
+        <li><a href="/expected">Expected error</a></li>
+        <li><a href="/unexpected">Unexpected error</a></li>
         
       </ul>
     </div>
