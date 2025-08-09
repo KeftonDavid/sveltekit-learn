@@ -17,7 +17,7 @@
           <li><a href="/blog">Blog</a></li>
           <li><a href="/expected">Expected error</a></li>
           <li><a href="/unexpected">Unexpected error</a></li>
-
+          <li><a href="/sum/sum-result">Sum</a></li>
         </ul>
       </div>
       <!-- svelte-ignore a11y_missing_attribute -->
@@ -30,6 +30,7 @@
         <li><a href="/blog">Blog</a></li>
         <li><a href="/expected">Expected error</a></li>
         <li><a href="/unexpected">Unexpected error</a></li>
+        <li><a href="/sum/sum-result">Sum</a></li>
         
       </ul>
     </div>
